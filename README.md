@@ -48,4 +48,4 @@ Feature engineering
 After pre-processing the data, we would look for Handling outliers, encoding for categorical variables, feature scaling and feature selection.
 Machine Learning Algorithms
 
-Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Gradient boosting, Decision Tree and K-Nearest Neighbors(KNN)..
+Here ML Algorithms will be applied. Looking at the problem statement with the categorial features involved, classification algorithms can be used. Logistic regression, Support Vector Machines(SVMs), Random Forest, Gradient boosting, Decision Tree and K-Nearest Neighbors(KNN).
