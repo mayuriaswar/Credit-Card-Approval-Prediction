@@ -14,9 +14,9 @@ Overall, the proposed project has the potential to upgrade the credit card appro
 Dataset
 Credit_card.csv
 
-Ind_ID: Client ID
-Gender: Gender information
-Car_owner: Having a car or not
+- Ind_ID: Client ID
+- Gender: Gender information
+- Car_owner: Having a car or not
 Propert_owner: Having property or not
 Children: Count of children
 Annual_income: Annual income
